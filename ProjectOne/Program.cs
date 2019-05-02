@@ -10,6 +10,14 @@ namespace ProjectOne
     {
         static void Main(string[] args)
         {
+
+            string num = "330";
+            int nums = Convert.ToInt32(num);
+
+            Console.WriteLine(nums);
+
+
+            Console.ReadLine();
         }
     }
 }
